@@ -1,17 +1,20 @@
-# `/src` — your work goes here
+# DM-S3519-1EC
 
-Put all your code, scripts, notebooks, experiment configs, and project materials in this folder.
+## 概述
+- 这里是 `DM-S3519-1EC` 分立系列减速电机资料入口。
+- 当前目录提供说明书、二维/三维资料和测试数据。
 
-**Research Track reminder:** your project should reproduce a cited paper and add **at least 10% innovation** (something new on top of the replication). Organise this folder however suits your project, but keep it tidy enough that a reviewer can follow what you did.
+## 文档 / 资源
+- [DM-S3519-1EC减速电机（含DM3520-1EC驱动器）使用说明书V1.1.pdf](DM-S3519-1EC减速电机（含DM3520-1EC驱动器）使用说明书V1.1.pdf) - 先看使用说明。
+- [DM-S3519-1EC 减速电机测试数据.pdf](DM-S3519-1EC%20减速电机测试数据.pdf) - 测试数据参考。
+- [DM3519 太阳轮图纸.pdf](DM3519%20太阳轮图纸.pdf) - 关键结构图纸。
+- [2D/](2D/) - 二维资料目录。
+- [3D/](3D/) - 三维资料目录。
 
-Suggested (not mandatory) layout:
+## 快速开始
+- 先看使用说明书，再根据你的任务进入 `2D/`、`3D/` 或测试数据文件。
 
-```
-/src
- ├── README.md          ← how to run your code / what's here
- ├── data/              ← datasets (or links if too large to commit)
- ├── experiments/       ← scripts, notebooks, configs
- └── results/           ← outputs, figures, logs
-```
-
-> Don't commit large datasets or secrets/credentials. Link to data sources instead.
+## 状态
+- ZH: 主版入口
+- EN: Translation pending
+- TBD: 目录内资料仍按现有命名保留
