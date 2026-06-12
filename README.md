@@ -25,17 +25,16 @@ This is your project home for the FURP programme. **Fork this template**, rename
 
 | Field | Your entry |
 |---|---|
-| Student name(s) | _e.g. Jason Zhang_ |
-| Project title | _..._ |
-| Project tag | _e.g. ROSBootcamp_ |
+| Student name(s) | _Jiarui Chen_ |
+| Project title | _3-DoF Aerial Manipulator for physical interaction_ |
+| Project tag | _e.g. -_ |
 | Track | Research |
-| Supervising faculty | _..._ |
-| Project lead | _..._ |
+| Supervising faculty | _FoSE_ |
+| Project lead | _Salman Ijaz_ |
 | Team or individual | _..._ |
 | Cited paper being replicated | _title + link/DOI_ |
 
-**One-line summary:** _What is your project about? (1–2 sentences)_
-
+**One-line summary:** This project is dedicated to developing a 3-DoF parallel aerial manipulator for the inspection and maintenance of energy infrastructure, enabling stable physical contact operations. The manipulator integrates a Delta parallel mechanism and achieves high-precision pose and force perception through force sensors. Visual servo closed-loop control and full-state impedance/admittance strategies are implemented via sensor fusion, allowing the system to achieve compliant interaction in unstructured environments. Targeting scenarios such as solar panel cleaning and wind turbine inspection, the system will first undergo simulation validation, followed by deployment on aerial platforms for real-world verification.
 ---
 
 ## Repository structure
