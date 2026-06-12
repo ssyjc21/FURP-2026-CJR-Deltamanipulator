@@ -30,28 +30,27 @@
 
 <!-- =================  YOUR ENTRIES BELOW  ================= -->
 
-Create Week0 Project Setup 
 ### Week 0 — 2026-6-12
 **Attended this week's meeting:** Yes
 
 **Progress this week**
--Joined the FURP kickoff meeting and discussed the project objectives, expected outcomes, and development tools.
--Attended the 3-DoF project meeting andreviewed the project topic: "3-DoF Aerial Manipulator for Physical Interaction". 
--Set up the project github repository based on the FURP template, Familiarized myself with the github interface that will be used throughout the project.
--Organized project resources and collected the initial documentation provided by the supervisor.
+- _Joined the FURP kickoff meeting and discussed the project objectives, expected outcomes, and development tools.
+- _Attended the 3-DoF project meeting andreviewed the project topic: "3-DoF Aerial Manipulator for Physical Interaction". 
+- _Set up the project github repository based on the FURP template, Familiarized myself with the github interface that will be used throughout the project.
+- _Organized project resources and collected the initial documentation provided by the supervisor.
 
 **Challenges & blockers**
--Limited background knowledge in aerial manipulation systems and UAV-manipulator coupled dynamics.
--still developing revelent skills of matlab control system programming/simulink software
+- _Limited background knowledge in aerial manipulation systems and UAV-manipulator coupled dynamics.
+- _still developing revelent skills of matlab control system programming/simulink software
 
-Next steps
-1.decide the rough dimension of solidworks model we're going to make with groupmates., model the cad file
-2.figure out the requires of matlab/simulink usage for my computer
-3.Study the actuator control methods
+**Next steps**
+- _decide the rough dimension of solidworks model we're going to make with groupmates., model the cad file
+- _figure out the requires of matlab/simulink usage for my computer
+- _Study the actuator control methods
 
 
-Links (optional): 
-project repository: FURP-2026-CJR-Deltamanipulator/docs/00_weekly.md
+**Links (optional):**
+- _project repository: FURP-2026-CJR-Deltamanipulator/docs/00_weekly.md
 
 ### Week 1 — YYYY-MM-DD
 
