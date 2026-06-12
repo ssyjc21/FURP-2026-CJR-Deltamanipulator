@@ -30,18 +30,19 @@
 
 <!-- =================  YOUR ENTRIES BELOW  ================= -->
 
-Create Week0 Project Setup Week 0 — 2026-6-12
-Attended this week's meeting: Yes
+Create Week0 Project Setup 
+### Week 0 — 2026-6-12
+**Attended this week's meeting:** Yes
 
-Progress this week
-1.Joined the FURP kickoff meeting and discussed the project objectives, expected outcomes, and development tools.
-2.Attended the 3-DoF project meeting andreviewed the project topic: "3-DoF Aerial Manipulator for Physical Interaction". 
-3.Set up the project github repository based on the FURP template, Familiarized myself with the github interface that will be used throughout the project.
-4.Organized project resources and collected the initial documentation provided by the supervisor.
+**Progress this week**
+-Joined the FURP kickoff meeting and discussed the project objectives, expected outcomes, and development tools.
+-Attended the 3-DoF project meeting andreviewed the project topic: "3-DoF Aerial Manipulator for Physical Interaction". 
+-Set up the project github repository based on the FURP template, Familiarized myself with the github interface that will be used throughout the project.
+-Organized project resources and collected the initial documentation provided by the supervisor.
 
-Challenges & blockers
-1.Limited background knowledge in aerial manipulation systems and UAV-manipulator coupled dynamics.
-2.still developing revelent skills of matlab control system programming/simulink software
+**Challenges & blockers**
+-Limited background knowledge in aerial manipulation systems and UAV-manipulator coupled dynamics.
+-still developing revelent skills of matlab control system programming/simulink software
 
 Next steps
 1.decide the rough dimension of solidworks model we're going to make with groupmates., model the cad file
