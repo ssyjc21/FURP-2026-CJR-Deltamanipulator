@@ -30,7 +30,7 @@
 
 <!-- =================  YOUR ENTRIES BELOW  ================= -->
 
-Week 0 — 2026-6-12
+Create Week0 Project Setup Week 0 — 2026-6-12
 Attended this week's meeting: Yes
 
 Progress this week
