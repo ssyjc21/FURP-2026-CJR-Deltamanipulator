@@ -52,20 +52,18 @@
 **Links (optional):**
 - _project repository: FURP-2026-CJR-Deltamanipulator/docs/00_weekly.md
 
-### Week 1 — YYYY-MM-DD
-
-**Attended this week's meeting:** Yes / No
+### Week 1 — 2026-6-18
+**Attended this week's meeting:**  No meeting arranged
 
 **Progress this week**
-- Set up repository from the FURP template.
-- _..._
-
+- _Reviewed the existing Delta manipulator assembly provided by the supervisor and confirmed it is a standard 3-DoF Delta parallel mechanism (base platform, 3 driving arms, 6 Link2 parallelogram linkages, moving platform).
+- _Identified the original actuators used in the assembly as 4310 geared motors ×3, and confirmed the replacement actuator is the DM-S3519-1EC ×3.
+- _Reviewed DM-S3519-1EC manufacturer documentation, test data, and 2D/3D CAD files to extract key mounting specs (flange OD, mounting hole pattern, output shaft diameter) for the upcoming motor swap.
+- _Diagnosed a CAD environment issue: the supervisor-provided assembly file only contains the top-level .SLDASM, without the referenced individual part files, which prevents editing any component.
+  
 **Challenges & blockers**
-- _..._
+- _The assembly displays full geometry correctly but individual parts cannot be edited (no "Edit Part" option, edit attempts prompt a locate-file dialog), because the referenced part files were not included with the assembly.
+- _Still waiting on the supervisor to provide the complete project folder (all referenced part files) before actuator mounting comparison and bracket redesign can begin.
 
 **Next steps**
-- _..._
-
-**Hours spent (optional):**
-
-**Links (optional):**
+- _Resolve the missing part files issue, either by requesting the full folder from the supervisor or running SolidWorks "Pack and Go" to generate a missing-file diagnostic report.
