@@ -67,3 +67,19 @@
 
 **Next steps**
 - _Resolve the missing part files issue, either by requesting the full folder from the supervisor or running SolidWorks "Pack and Go" to generate a missing-file diagnostic report.
+- 
+### Week 2 — 2026-6-25
+**Attended this week's meeting:** Yes
+**Progress this week**
+- _Identified the correct CAD environment: the original Delta manipulator assembly was built in Autodesk Inventor (not SolidWorks), and successfully opened all referenced part files for editing.
+- _Measured the original 4310 motor mounting interface dimensions using Inventor's Measure tool: flange OD ~42.3mm, bottom-face mounting hole PCD radius 19mm, hole diameter 2.5mm, 4 holes.
+- _Extracted DM-S3519-1EC true mounting dimensions directly from the manufacturer STEP file: flange OD 42mm, bottom-face mounting hole PCD radius 9mm, hole diameter 2.5mm, 4 holes; top-face (flange side) PCD radius 17.5mm.
+
+- _Modified 云台基座结构.ipt to adapt the motor mounting seat for DM-S3519-1EC: updated bottom-face mounting hole PCD radius from 19mm to 9mm in Sketch 9 (hole diameter 2.5mm unchanged, hole count 4 unchanged).
+- _Successfully imported DM-S3519-1EC STEP model into 云台基座.iam assembly and began assembly constraint setup.
+**Challenges & blockers**
+- _Multiple measurement iterations were needed to correctly identify which sketches controlled which features (mounting hole PCD vs. frame dimensions vs. fastener holes), due to complex multi-body part structure of 云台基座结构.ipt.
+**Next steps**
+- _Complete assembly constraints for DM-S3519 in 云台基座.iam (concentric mate on flange OD to through-hole, planar mate on flange face to seat inner face).
+- _Replicate the same modifications for all three motor positions (currently only one position modified).
+- _Begin measuring key kinematic parameters from original assembly (R_base, L1, L2) as preparation for MATLAB/Simulink modelling.
