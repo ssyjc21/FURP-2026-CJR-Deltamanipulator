@@ -70,6 +70,7 @@
 - 
 ### Week 2 — 2026-6-25
 **Attended this week's meeting:** Yes
+
 **Progress this week**
 - _Identified the correct CAD environment: the original Delta manipulator assembly was built in Autodesk Inventor (not SolidWorks), and successfully opened all referenced part files for editing.
 - _Measured the original 4310 motor mounting interface dimensions using Inventor's Measure tool: flange OD ~42.3mm, bottom-face mounting hole PCD radius 19mm, hole diameter 2.5mm, 4 holes.
