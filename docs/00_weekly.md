@@ -78,8 +78,10 @@
 
 - _Modified 云台基座结构.ipt to adapt the motor mounting seat for DM-S3519-1EC: updated bottom-face mounting hole PCD radius from 19mm to 9mm in Sketch 9 (hole diameter 2.5mm unchanged, hole count 4 unchanged).
 - _Successfully imported DM-S3519-1EC STEP model into 云台基座.iam assembly and began assembly constraint setup.
+  
 **Challenges & blockers**
 - _Multiple measurement iterations were needed to correctly identify which sketches controlled which features (mounting hole PCD vs. frame dimensions vs. fastener holes), due to complex multi-body part structure of 云台基座结构.ipt.
+  
 **Next steps**
 - _Complete assembly constraints for DM-S3519 in 云台基座.iam (concentric mate on flange OD to through-hole, planar mate on flange face to seat inner face).
 - _Replicate the same modifications for all three motor positions (currently only one position modified).
