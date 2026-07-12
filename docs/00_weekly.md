@@ -86,3 +86,25 @@
 - _Complete assembly constraints for DM-S3519 in 云台基座.iam (concentric mate on flange OD to through-hole, planar mate on flange face to seat inner face).
 - _Replicate the same modifications for all three motor positions (currently only one position modified).
 - _Begin measuring key kinematic parameters from original assembly (R_base, L1, L2) as preparation for MATLAB/Simulink modelling.
+
+## Week 4 — 2026-07-12
+
+**Attended this week's meeting:** No (team working independently; no group meeting scheduled)
+
+**Progress this week**
+- Replaced first motor position (4310 → DM-S3519-1EC) in gimbal base assembly
+- Finalised mounting hole configuration for new motor:
+  - PCD: 9 mm, 4 holes, diameter 2.5 mm
+  - Motor seat depth: 30 mm (motor mounting section: 29.2 mm, 0.8 mm clearance)
+
+
+**Challenges & blockers**
+- Team coordination: supervisor expects smaller design, but members work independently → CAD modifications handled alone
+- Pending: exact scaling ratio for gimbal base not yet finalised
+
+
+**Next steps**
+- Finalise scaled-down dimensions (target: PCD ≥ 50 mm, outer diameter ≈ 65–70 mm)
+- Run interference check
+- Export CAD as STEP and upload to GitHub
+- Extract kinematic parameters from final assembly
